@@ -20,3 +20,14 @@
 * Badge Type | Headmaster     *
 ******************************/
 
+// Admin - Club Manager (Lower Standard) Badge
+/******************************
+* Applied To | YourRealName   *
+* Role       | Manager        *
+* --------------------------- *
+* Replit     | @Username      *
+* GitHub     | @Username      *
+* --------------------------- *
+* Badge Type | Admin          *
+******************************/
+
